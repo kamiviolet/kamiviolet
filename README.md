@@ -1,4 +1,4 @@
-### Hello world 👋
+### Hello world 👋 I am Kami, a junior developer totally unnoticable in this lively vast community BUT I am learning and I have strong will to contribute to the community.
 
 ## Fun facts about me
 - In early 2000s, after introduced to Dreamweaver, I self learned HTML and hosted my first homepage in Geocities JP. It was fun to think of various themes and designs to put on my homepage back then.
@@ -7,13 +7,13 @@
 - My working experiences across various fields, as admin officer in education sector, waitress at Chinese restaurant, babysitter / au pair, caretaker for seniors who suffered from dementia, sale assistant at supermarket and machine operator in manufacturing sector.
 - In 2022, I started to pick up with my HTML and CSS after more than a decade, and after being self-taught for almost a year, I joined Northcoders for their 13 weeks bootcamp.
 
-## ✨ What I am learning now? ✨
+## ✨ What am I learning now? ✨
 - NextJS
 - TypeScript
 - TailwindCSS
 - AWS
 
-## What I am planning to do
+## 🌱 What am I planning to do? 🌱
 - Make some applications concerning the mental health or wellbeing in general of people
 - Make some applications which can help cancer patients and their family have little easier life
 - Learn C#
