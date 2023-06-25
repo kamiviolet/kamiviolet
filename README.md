@@ -7,9 +7,16 @@
 - My working experiences across various fields, as admin officer in education sector, waitress at Chinese restaurant, babysitter / au pair, caretaker for seniors who suffered from dementia, sale assistant at supermarket and machine operator in manufacturing sector.
 - In 2022, I started to pick up with my HTML and CSS after more than a decade, and after being self-taught for almost a year, I joined Northcoders for their 13 weeks bootcamp.
 
-- When everyone is rushing to all useful and popular frameworks, learning JS and Python, I am currently reading about C programming language...? 
+## ✨ What I am learning now? ✨
+- NextJS
+- TypeScript
+- TailwindCSS
+- AWS
 
-
+## What I am planning to do
+- Make some applications concerning the mental health or wellbeing in general of people
+- Make some applications which can help cancer patients and their family have little easier life
+- Learn C#
 
 <!--
 **kamiviolet/kamiviolet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
