@@ -1,4 +1,5 @@
-### Hello world 👋 I am Kami, a junior developer totally unnoticable in this lively vast community BUT I am learning and I have strong will to contribute to the community.
+### Hello world 👋
+I am Kami, a junior developer totally unnoticable in this lively vast community BUT I am learning and I have strong will to contribute to the community.
 
 ## Fun facts about me
 - In early 2000s, after introduced to Dreamweaver, I self learned HTML and hosted my first homepage in Geocities JP. It was fun to think of various themes and designs to put on my homepage back then.
