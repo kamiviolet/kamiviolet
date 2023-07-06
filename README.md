@@ -10,7 +10,6 @@ I am Kami, a junior developer totally unnoticable in this lively vast community 
 
 ## My growing tool set
 
-<div align="center">
 <span align="left" style="background-color: white">
     <img width="50" alt="html" src="./devicons/html5-original.svg" />
 </span>
@@ -50,21 +49,6 @@ I am Kami, a junior developer totally unnoticable in this lively vast community 
 <span align="left" style="background-color: white">
     <img width="50" alt="firebase" src="./devicons/firebase-plain.svg" />
 </span>
-<span align="left" style="background-color: white">
-    <img width="50" alt="vite" src="./devicons/vite-original.svg" />
-</span>
-<span align="left" style="background-color: white">
-    <img width="50" alt="next" src="./devicons/nextjs-original-wordmark.svg" />
-</span>
-<span align="left" style="background-color: white">
-    <img width="50" alt="expo" src="./devicons/expo-original.svg" />
-</span>
-<span align="left" style="background-color: white">
-    <img width="50" alt="trello" src="./devicons/trello-plain.svg" />
-</span>
-<div align="center">
-
-<div align="left"></div>
 
 ## ✨ What am I learning now?
 - NextJS
