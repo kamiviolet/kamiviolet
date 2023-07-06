@@ -10,25 +10,58 @@ I am Kami, a junior developer totally unnoticable in this lively vast community 
 
 ## My non-exclusive tool set
 
-<div align="center">
-    <img width="75" align="left" alt="html" src="./devicons/html5-original.svg" />
-    <img width="75" align="left" alt="css" src="./devicons/css3-original.svg" />
-    <img width="75" align="left" alt="sass" src="./devicons/sass-original.svg" />
-    <img width="75" align="left" alt="tailwindCSS" src="./devicons/tailwindcss-plain.svg" />
-    <img width="75" align="left" alt="javascript" src="./devicons/javascript-original.svg" />
-    <img width="75" align="left" alt="typescript" src="./devicons/typescript-original.svg" />
-    <img width="75" align="left" alt="react" src="./devicons/react-original.svg" />
-    <img width="75" align="left" alt="nodeJS" src="./devicons/nodejs-original.svg" />
-    <img width="75" align="left" alt="express" src="./devicons/express-original.svg" />
-    <img width="75" align="left" alt="jest" src="./devicons/jest-plain.svg" />
-    <img width="75" align="left" alt="npm" src="./devicons/npm-original-wordmark.svg" />
-    <img width="75" align="left" alt="psql" src="./devicons/postgresql-plain.svg" />
-    <img width="75" align="left" alt="firebase" src="./devicons/firebase-plain.svg" />
-    <img width="75" align="left" alt="vite" src="./devicons/vite-original.svg" />
-    <img width="75" align="left" alt="next" src="./devicons/nextjs-original-wordmark.svg" />
-    <img width="75" align="left" alt="expo" src="./devicons/expo-original.svg" />
-    <img width="75" align="left" alt="trello" src="./devicons/trello-plain.svg" />
+<div align="left" style="background-color: white">
+    <img width="50" alt="html" src="./devicons/html5-original.svg" />
 </div>
+<div align="left" style="background-color: white">
+    <img width="50" alt="css" src="./devicons/css3-original.svg" />
+</div>
+<div align="left" style="background-color: white">
+    <img width="50" alt="sass" src="./devicons/sass-original.svg" />
+</div>
+<div align="left" style="background-color: white">
+    <img width="50" alt="tailwindCSS" src="./devicons/tailwindcss-plain.svg" />
+</div>
+<div align="left" style="background-color: white">
+    <img width="50" alt="javascript" src="./devicons/javascript-original.svg" />
+</div>
+<div align="left" style="background-color: white">
+    <img width="50" alt="typescript" src="./devicons/typescript-original.svg" />
+</div>
+<div align="left" style="background-color: white">
+    <img width="50" alt="react" src="./devicons/react-original.svg" />
+</div>
+<div align="left" style="background-color: white">
+    <img width="50" alt="nodeJS" src="./devicons/nodejs-original.svg" />
+</div>
+<div align="left" style="background-color: white">
+    <img width="50" alt="express" src="./devicons/express-original.svg" />
+</div>
+<div align="left" style="background-color: white">
+    <img width="50" alt="jest" src="./devicons/jest-plain.svg" />
+</div>
+<div align="left" style="background-color: white">
+    <img width="50" alt="npm" src="./devicons/npm-original-wordmark.svg" />
+</div>
+<div align="left" style="background-color: white">
+    <img width="50" alt="psql" src="./devicons/postgresql-plain.svg" />
+</div>
+<div align="left" style="background-color: white">
+    <img width="50" alt="firebase" src="./devicons/firebase-plain.svg" />
+</div>
+<div align="left" style="background-color: white">
+    <img width="50" alt="vite" src="./devicons/vite-original.svg" />
+</div>
+<div align="left" style="background-color: white">
+    <img width="50" alt="next" src="./devicons/nextjs-original-wordmark.svg" />
+</div>
+<div align="left" style="background-color: white">
+    <img width="50" alt="expo" src="./devicons/expo-original.svg" />
+</div>
+<div align="left" style="background-color: white">
+    <img width="50" alt="trello" src="./devicons/trello-plain.svg" />
+</div>
+
 
 <!-- -->
 
