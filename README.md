@@ -64,9 +64,7 @@ I am Kami, a junior developer totally unnoticable in this lively vast community 
 </span>
 <div align="center">
 
-
-
-<!-- -->
+<div align="left"></div>
 
 ## ✨ What am I learning now?
 - NextJS
