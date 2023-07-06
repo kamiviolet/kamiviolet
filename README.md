@@ -40,6 +40,7 @@ I am Kami, a junior developer totally unnoticable in this lively vast community 
 <span align="left">
     <img width="50" alt="firebase" src="./devicons/firebase-plain.svg" />
 </span>
+and more :)
 
 ## ✨ What am I learning now?
 - NextJS
