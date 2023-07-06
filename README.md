@@ -10,22 +10,22 @@ I am Kami, a junior developer totally unnoticable in this lively vast community 
 
 ## My non-exclusive tool set
 <img width="75" style="float: left" alt="html" src="./devicons/html5-original.svg">
-<img width="75" style="float: left" alt="css" src="./devicons/css3-original.svg">
-<img width="75" style="float: left" alt="sass" src="./devicons/sass-original.svg">
-<img width="75" style="float: left" alt="tailwindCSS" src="./devicons/tailwindcss-plain.svg">
-<img width="75" style="float: left" alt="javascript" src="./devicons/javascript-original.svg">
-<img width="75" style="float: left" alt="typescript" src="./devicons/typescript-original.svg">
-<img width="75" style="float: left" alt="react" src="./devicons/react-original.svg">
-<img width="75" style="float: left" alt="nodeJS" src="./devicons/nodejs-original.svg">
-<img width="75" style="float: left" alt="express" src="./devicons/express-original.svg">
-<img width="75" style="float: left" alt="jest" src="./devicons/jest-plain.svg">
-<img width="75" style="float: left" alt="npm" src="./devicons/npm-original-wordmark.svg">
-<img width="75" style="float: left" alt="psql" src="./devicons/postgresql-plain.svg">
-<img width="75" style="float: left" alt="firebase" src="./devicons/firebase-plain.svg">
-<img width="75" style="float: left" alt="vite" src="./devicons/vite-original.svg">
-<img width="75" style="float: left" alt="next" src="./devicons/nextjs-original-wordmark.svg">
-<img width="75" style="float: left" alt="expo" src="./devicons/expo-original.svg">
-<img width="75" style="float: left" alt="trello" src="./devicons/trello-plain.svg">
+<img width="75" style="display: inline" alt="css" src="./devicons/css3-original.svg">
+<img width="75" style="display: inline" alt="sass" src="./devicons/sass-original.svg">
+<img width="75" style="display: inline" alt="tailwindCSS" src="./devicons/tailwindcss-plain.svg">
+<img width="75" style="display: inline" alt="javascript" src="./devicons/javascript-original.svg">
+<img width="75" style="display: inline" alt="typescript" src="./devicons/typescript-original.svg">
+<img width="75" style="display: inline" alt="react" src="./devicons/react-original.svg">
+<img width="75" style="display: inline" alt="nodeJS" src="./devicons/nodejs-original.svg">
+<img width="75" style="display: inline" alt="express" src="./devicons/express-original.svg">
+<img width="75" style="display: inline" alt="jest" src="./devicons/jest-plain.svg">
+<img width="75" style="display: inline" alt="npm" src="./devicons/npm-original-wordmark.svg">
+<img width="75" style="display: inline" alt="psql" src="./devicons/postgresql-plain.svg">
+<img width="75" style="display: inline" alt="firebase" src="./devicons/firebase-plain.svg">
+<img width="75" style="display: inline" alt="vite" src="./devicons/vite-original.svg">
+<img width="75" style="display: inline" alt="next" src="./devicons/nextjs-original-wordmark.svg">
+<img width="75" style="display: inline" alt="expo" src="./devicons/expo-original.svg">
+<img width="75" style="display: inline" alt="trello" src="./devicons/trello-plain.svg">
 
 ## ✨ What am I learning now?
 - NextJS
