@@ -8,8 +8,9 @@ I am Kami, a junior developer totally unnoticable in this lively vast community 
 - My working experiences across various fields, as admin officer in education sector, waitress at Chinese restaurant, babysitter / au pair, caretaker for seniors who suffered from dementia, sale assistant at supermarket and machine operator in manufacturing sector.
 - In 2022, I started to pick up with my HTML and CSS after more than a decade, and after being self-taught for almost a year, I joined Northcoders for their 13 weeks bootcamp.
 
-## My non-exclusive tool set
+## My growing tool set
 
+<div align="center">
 <span align="left" style="background-color: white">
     <img width="50" alt="html" src="./devicons/html5-original.svg" />
 </span>
@@ -61,6 +62,8 @@ I am Kami, a junior developer totally unnoticable in this lively vast community 
 <span align="left" style="background-color: white">
     <img width="50" alt="trello" src="./devicons/trello-plain.svg" />
 </span>
+<div align="center">
+
 
 
 <!-- -->
