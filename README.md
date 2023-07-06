@@ -10,6 +10,7 @@ I am Kami, a junior developer totally unnoticable in this lively vast community 
 
 ## My non-exclusive tool set
 
+<div>
 <img width="75" align="left" alt="html" src="./devicons/html5-original.svg">
 <img width="75" align="left" alt="css" src="./devicons/css3-original.svg">
 <img width="75" align="left" alt="sass" src="./devicons/sass-original.svg">
@@ -27,6 +28,7 @@ I am Kami, a junior developer totally unnoticable in this lively vast community 
 <img width="75" align="left" alt="next" src="./devicons/nextjs-original-wordmark.svg">
 <img width="75" align="left" alt="expo" src="./devicons/expo-original.svg">
 <img width="75" align="left" alt="trello" src="./devicons/trello-plain.svg">
+</div>
 <br> 
 
 ## ✨ What am I learning now?
