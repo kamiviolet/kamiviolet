@@ -27,7 +27,7 @@ I am Kami, a junior developer totally unnoticable in this lively vast community 
 <img width="75" align="left" alt="next" src="./devicons/nextjs-original-wordmark.svg">
 <img width="75" align="left" alt="expo" src="./devicons/expo-original.svg">
 <img width="75" align="left" alt="trello" src="./devicons/trello-plain.svg">
-\
+<br> 
 
 ## ✨ What am I learning now?
 - NextJS
