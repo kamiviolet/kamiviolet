@@ -10,41 +10,23 @@ I am Kami, a junior developer totally unnoticable in this lively vast community 
 
 ## My growing tool set
 
-![html]
-(/devicons/html5-original.svg)
-{:height="50px" width="50px"}
+![html](/devicons/html5-original.svg){:height="50px" width="50px"}
 
-![css]
-(/devicons/css3-original.svg)
-{:height="50px" width="50px"}
+![css](/devicons/css3-original.svg){:height="50px" width="50px"}
 
-![sass]
-(/devicons/sass-original.svg)
-{:height="50px" width="50px"}
+![sass](/devicons/sass-original.svg){:height="50px" width="50px"}
 
-![tailwindCSS]
-(/devicons/tailwindcss-plain.svg)
-{:height="50px" width="50px"}
+![tailwindCSS](/devicons/tailwindcss-plain.svg){:height="50px" width="50px"}
 
-![javascript]
-(/devicons/javascript-original.svg)
-{:height="50px" width="50px"}
+![javascript](/devicons/javascript-original.svg){:height="50px" width="50px"}
 
-![typescript]
-(/devicons/typescript-original.svg)
-{:height="50px" width="50px"}
+![typescript](/devicons/typescript-original.svg){:height="50px" width="50px"}
 
-![react]
-(/devicons/react-original.svg)
-{:height="50px" width="50px"}
+![react](/devicons/react-original.svg){:height="50px" width="50px"}
 
-![psql]
-(/devicons/postgresql-plain.svg)
-{:height="50px" width="50px"}
+![psql](/devicons/postgresql-plain.svg){:height="50px" width="50px"}
 
-![firebase]
-(/devicons/firebase-plain.svg)
-{:height="50px" width="50px"}
+![firebase](/devicons/firebase-plain.svg){:height="50px" width="50px"}
 
 
 ## ✨ What am I learning now?
