@@ -8,6 +8,25 @@ I am Kami, a junior developer totally unnoticable in this lively vast community 
 - My working experiences across various fields, as admin officer in education sector, waitress at Chinese restaurant, babysitter / au pair, caretaker for seniors who suffered from dementia, sale assistant at supermarket and machine operator in manufacturing sector.
 - In 2022, I started to pick up with my HTML and CSS after more than a decade, and after being self-taught for almost a year, I joined Northcoders for their 13 weeks bootcamp.
 
+## My non-exclusive tool set
+<img width="75" alt="html" src="./devicons/html5-original.svg">
+<img width="75" alt="css" src="./devicons/css3-original.svg">
+<img width="75" alt="sass" src="./devicons/sass-original.svg">
+<img width="75" alt="tailwindCSS" src="./devicons/tailwindcss-plain.svg">
+<img width="75" alt="javascript" src="./devicons/javascript-original.svg">
+<img width="75" alt="typescript" src="./devicons/typescript-original.svg">
+<img width="75" alt="react" src="./devicons/react-original.svg">
+<img width="75" alt="nodeJS" src="./devicons/nodejs-original.svg">
+<img width="75" alt="express" src="./devicons/express-original.svg">
+<img width="75" alt="jest" src="./devicons/jest-plain.svg">
+<img width="75" alt="npm" src="./devicons/npm-original-wordmark.svg">
+<img width="75" alt="psql" src="./devicons/postgresql-plain.svg">
+<img width="75" alt="firebase" src="./devicons/firebase-plain.svg">
+<img width="75" alt="vite" src="./devicons/vite-original.svg">
+<img width="75" alt="next" src="./devicons/nextjs-original-wordmark.svg">
+<img width="75" alt="expo" src="./devicons/expo-original.svg">
+<img width="75" alt="trello" src="./devicons/trello-plain.svg">
+
 ## ✨ What am I learning now?
 - NextJS
 - TypeScript
