@@ -35,13 +35,13 @@ I am Kami, a junior developer totally unnoticable in this lively vast community 
     <img width="50" alt="nodeJS" src="./devicons/nodejs-original.svg" />
 </span>
 <span align="left" style="background-color: white">
-    <img width="50" alt="express" src="./devicons/express-original.svg" />
+    <img width="50" style="background-color: white" alt="express" src="./devicons/express-original.svg" />
 </span>
 <span align="left" style="background-color: white">
     <img width="50" alt="jest" src="./devicons/jest-plain.svg" />
 </span>
 <span align="left" style="background-color: white">
-    <img width="50" alt="npm" src="./devicons/npm-original-wordmark.svg" />
+    <img width="50" alt="npm" style="background-color: white" src="./devicons/npm-original-wordmark.svg" />
 </span>
 <span align="left" style="background-color: white">
     <img width="50" alt="psql" src="./devicons/postgresql-plain.svg" />
