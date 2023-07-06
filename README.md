@@ -10,24 +10,36 @@ I am Kami, a junior developer totally unnoticable in this lively vast community 
 
 ## My growing tool set
 
-![html](/devicons/html5-original.svg){:height="50px" width="50px"}
-
-![css](/devicons/css3-original.svg){:height="50px" width="50px"}
-
-![sass](/devicons/sass-original.svg){:height="50px" width="50px"}
-
-![tailwindCSS](/devicons/tailwindcss-plain.svg){:height="50px" width="50px"}
-
-![javascript](/devicons/javascript-original.svg){:height="50px" width="50px"}
-
-![typescript](/devicons/typescript-original.svg){:height="50px" width="50px"}
-
-![react](/devicons/react-original.svg){:height="50px" width="50px"}
-
-![psql](/devicons/postgresql-plain.svg){:height="50px" width="50px"}
-
-![firebase](/devicons/firebase-plain.svg){:height="50px" width="50px"}
-
+<span align="left">
+    <img width="50" alt="html" src="./devicons/html5-original.svg" />
+</span>
+<span align="left">
+    <img width="50" alt="css" src="./devicons/css3-original.svg" />
+</span>
+<span align="left">
+    <img width="50" alt="sass" src="./devicons/sass-original.svg" />
+</span>
+<span align="left">
+    <img width="50" alt="tailwindCSS" src="./devicons/tailwindcss-plain.svg" />
+</span>
+<span align="left">
+    <img width="50" alt="javascript" src="./devicons/javascript-original.svg" />
+</span>
+<span align="left">
+    <img width="50" alt="typescript" src="./devicons/typescript-original.svg" />
+</span>
+<span align="left">
+    <img width="50" alt="react" src="./devicons/react-original.svg" />
+</span>
+<span align="left">
+    <img width="50" alt="jest" src="./devicons/jest-plain.svg" />
+</span>
+<span align="left">
+    <img width="50" alt="psql" src="./devicons/postgresql-plain.svg" />
+</span>
+<span align="left">
+    <img width="50" alt="firebase" src="./devicons/firebase-plain.svg" />
+</span>
 
 ## ✨ What am I learning now?
 - NextJS
