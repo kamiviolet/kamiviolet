@@ -8,7 +8,7 @@ I am Kami, a junior developer totally unnoticable in this lively vast community 
 - My working experiences across various fields, as admin officer in education sector, waitress at Chinese restaurant, babysitter / au pair, caretaker for seniors who suffered from dementia, sale assistant at supermarket and machine operator in manufacturing sector.
 - In 2022, I started to pick up with my HTML and CSS after more than a decade, and after being self-taught for almost a year, I joined Northcoders for their 13 weeks bootcamp.
 
-## My growing tool set
+## 🔭 My growing tech stacks
 
 <span align="left">
     <img width="50" alt="html" src="./devicons/html5-original.svg" />
@@ -61,9 +61,6 @@ and more :)
 
 <!--
 **kamiviolet/kamiviolet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
