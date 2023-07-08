@@ -46,7 +46,7 @@ and more :)
 - NextJS
 - TypeScript
 - TailwindCSS
-- php...?
+- php...? and Laravel
 
 ## 👯 What am I doing (going to do for sure)?
 - API about microbes
@@ -57,7 +57,7 @@ and more :)
 ## 🌱 What am I planning to do?
 - Make some applications concerning the mental health or wellbeing in general of people
 - Make some applications which can help cancer patients and their family have little easier life
-- Learn C#
+- Learn C# and .NET
 
 <!--
 **kamiviolet/kamiviolet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
